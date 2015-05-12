@@ -18,6 +18,7 @@
   "homepage": "https://github.com/mcmullensmith/bootstrap-less",
   "devDependencies": {
     "gulp": "^3.8.11",
-    "gulp-less": "^3.0.3"
+    "gulp-less": "^3.0.3",
+    "gulp-plumber": "^1.0.0"
   }
 }
